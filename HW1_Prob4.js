@@ -68,7 +68,7 @@ function mergeSort(array,l){
     return array;
 }
 
-array = [6,4,2,7,5,3,1,12,52,13,11];    // input array.
+array = [6,4,2,7,5,3,1,12,52,13,11];    // input array
 
 console.log(mergeSort(array,array.length));
 
