@@ -99,3 +99,4 @@ mergeSort(array, array.length);     // Driver code
 // Code taken from below website as seen above in the merge function
 // https://www.geeksforgeeks.org/in-place-merge-sort/
 // https://medium.com/karuna-sehgal/a-simplified-explanation-of-merge-sort-77089fe03bb2
+// https://stackoverflow.com/questions/46695942/iterative-in-place-mergesort
